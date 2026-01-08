@@ -54,16 +54,16 @@ Product Performance & Trend Analysis Dashboard: https://github.com/Kha998/Custom
 - Use time-based trends to improve demand forecasting, inventory planning, and marketing timing.  
 
 ## Tools & Technologies
-- **Microsoft Power BI**  
-- **Power Query** – data cleaning and transformation  
-- **DAX** – KPI calculations and time intelligence (YoY growth, trends)  
-- **Star Schema Data Modeling**  
-- **Interactive slicers and filters**  
+- Microsoft Power BI  
+- Power Query – data cleaning and transformation  
+- DAX – KPI calculations and time intelligence (YoY growth, trends)  
+- Star Schema Data Modeling  
+- Interactive slicers and filters
 
 ## Dataset
-- **Source:** Global Superstore dataset:  
-- **Records:** 50,000+ transactional rows  
-- **Key Fields:** Orders, Customers, Products, Sales, Profit, Discounts, Dates, Regions  
+- Source: Global Superstore dataset: https://www.kaggle.com/code/nishathakkar/global-superstores-customer-product-analysis?select=Global_Superstore2.csv 
+- Records: 50,000+ transactional rows  
+- Key Fields: Orders, Customers, Products, Sales, Profit, Discounts, Dates, Regions  
 
 ## Business Impact
 - Enabled data-driven decision-making for customer and product strategies  
