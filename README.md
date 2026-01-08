@@ -34,7 +34,7 @@ This project focuses on evaluating **customer performance** and **product profit
 ## Dashboard Preview
 
 ### Customer Segmentation & Performance
-Customer Segmentation Dashboard: 
+Customer Segmentation Dashboard: https://github.com/Kha998/Customer-Product-Performance-Analytics-Dashboard-E-commerce/blob/main/Snapshot%20Customer%20Segmentation%20Analysis%20Dashboard.png
 
 ### Product Performance, Profitability & Trends
 Product Performance & Trend Analysis Dashboard:
