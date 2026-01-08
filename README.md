@@ -37,7 +37,7 @@ This project focuses on evaluating **customer performance** and **product profit
 Customer Segmentation Dashboard: https://github.com/Kha998/Customer-Product-Performance-Analytics-Dashboard-E-commerce/blob/main/Snapshot%20Customer%20Segmentation%20Analysis%20Dashboard.png
 
 ### Product Performance, Profitability & Trends
-Product Performance & Trend Analysis Dashboard:
+Product Performance & Trend Analysis Dashboard: https://github.com/Kha998/Customer-Product-Performance-Analytics-Dashboard-E-commerce/blob/main/Snapshot%20Product%20Performance%20%26%20Trend%20Analysis%20Dashboard.png
 
 ## Key Insights
 - Sales show a consistent upward trend over time, while profit growth remains more moderate, indicating margin pressure.  
